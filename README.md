@@ -1,1 +1,1 @@
-# digital-calculator
+# javascript-basic-calculator
